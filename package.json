@@ -1,0 +1,23 @@
+{
+  "name": "testredshift",
+  "version": "1.0.0",
+  "description": "\"# test1\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veuch31/test1.git"
+  },
+  "author": "jim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veuch31/test1/issues"
+  },
+  "homepage": "https://github.com/veuch31/test1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
